@@ -147,3 +147,51 @@ h3{
     justify-content: flex-end;
     margin-right: 280px;
 }
+
+.last-div{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.blue-container{
+    background-color: #3882F6;
+    width: 75%;
+    height: 40%;
+    display: flex;
+    flex-direction: row;
+}
+
+.left{
+    width: 80%;
+    margin-left: 100px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h4{
+    font-size: 24px;
+    color: white;    
+}
+
+.last-p{
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.right{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.btn-last-div{
+    background-color: #3882F6;
+    color: white;
+    width: 100px;
+    height: 40px;
+    border: 1px white;
+    border-radius: 10px;
+}
