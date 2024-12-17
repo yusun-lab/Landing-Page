@@ -1,0 +1,23 @@
+[33mcommit 14d03c5effda99fe41df651e1d98b25f14340cc4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: yusun-lab <yu.sun@hyperisland.se>
+Date:   Tue Dec 17 10:26:07 2024 +0100
+
+    working with the first section
+
+[33mcommit 4eb20bd0368b270da2117b3f68fee4e0c14b4b92[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: yusun-lab <yu.sun@hyperisland.se>
+Date:   Tue Dec 17 00:30:44 2024 +0100
+
+    create section 1
+
+[33mcommit c3566d7dddafa3eae290ce3a244faa1ba7e5bb3c[m
+Author: yusun-lab <yu.sun@hyperisland.se>
+Date:   Mon Dec 16 23:38:06 2024 +0100
+
+    Creating index.html and styles.css
+
+[33mcommit e12f5d6bfe31f3ceeea4216844c8ab088bf5f992[m
+Author: Yu Sun <yu.sun@hyperisland.se>
+Date:   Mon Dec 16 14:15:46 2024 +0100
+
+    Initial commit
