@@ -183,7 +183,8 @@ h4{
 
 .right{
     display: flex;
-    justify-content: flex-start;
+    /* justify-content: flex-start; */
+    margin-right: 100px;
     align-items: center;
 }
 
@@ -192,6 +193,15 @@ h4{
     color: white;
     width: 100px;
     height: 40px;
-    border: 1px white;
+    border: 1px solid white;
     border-radius: 10px;
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    align-items: center;
+    color: #E5E7EB;
+    height: 75px;
 }
